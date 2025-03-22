@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente curso o quarto semestre de Engenharia da Computação e tenho como meta adquirir experiência prática na área de TI e me desenvolver profissionalmente. Tenho conhecimento em HTML/CSS, SQL, Phyton, Java e CAD. Estou aberto a oportunidades que me permitam aprender e contribuir com negócios movidos por inovação.
+Atualmente curso o quinto semestre de Engenharia da Computação e tenho como meta adquirir experiência prática na área de TI e me desenvolver profissionalmente. Tenho conhecimento em HTML/CSS, SQL, Phyton, Java e CAD. Estou aberto a oportunidades que me permitam aprender e contribuir com negócios movidos por inovação.
 
 
 ## 🌐 Socials:
